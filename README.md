@@ -15,7 +15,7 @@
 ----
 
 # JSP 프로젝트 
-## 링크
+[JSP 프로젝트](https://github.com/HyunJun-K/JSP_Project)
 ## 개요
  - MVC Model2를 이용한 CRUD 및 다양한 API 활용 
 ## 기여도 
