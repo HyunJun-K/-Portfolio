@@ -29,3 +29,4 @@
 # JSP 익명 메일 서비스
 ## 개요 
  - 추운 연말 따뜻한 한마디를 제공하는 익명성 메일 서비스 
+ APi : Fullpage JS , JAVA Mail , JQuery, JS ,CSS , Google Recapcha
