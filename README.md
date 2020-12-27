@@ -27,6 +27,15 @@
 
 ---- 
 # JSP 익명 메일 서비스
+[익명메일서비스](https://github.com/HyunJun-K/luv_letters)
 ## 개요 
  - 추운 연말 따뜻한 한마디를 제공하는 익명성 메일 서비스 
- APi : Fullpage JS , JAVA Mail , JQuery, JS ,CSS , Google Recapcha
+## 기여도 
+ - 기여도 100 % 
+ - 풀페이지 JS를 이용한 풀페이지 제작, JAVA 메일을 이용한 STMP 메일 전송 
+ - 개발 도구: Fullpage JS , JAVA Mail , JQuery, JS ,CSS , Google Recapcha , Eclips, Apache Tomcat v9.0
+ 
+ ----
+ # Spring Project 
+ ## 현재 진
+ 
