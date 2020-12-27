@@ -18,12 +18,14 @@
 [JSP 프로젝트](https://github.com/HyunJun-K/JSP_Project)
 ## 개요
  - MVC Model2를 이용한 CRUD 및 다양한 API 활용 
+ - 회원제를 통한 익명성 커뮤니티 사이트 
 ## 기여도 
  - 기여도 45%
  - 글 등록, 수정, 삭제, 뷰 : JSP, never_smart_editter 2.0 api, JS, CSS, HTML,        bootstrap
  - 추천, 조회수, 신고하기 기능 : JSP, Jquery, JS, bootstrap, Google recapcha v2
  - 개발툴 : JSTL, JAVA, ORACLE, bootstrap, Eclips, Apache Tomcat v9.0, JQuery
 
-
-
 ---- 
+# JSP 익명 메일 서비스
+## 개요 
+ - 추운 연말 따뜻한 한마디를 제공하는 익명성 메일 서비스 
