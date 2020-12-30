@@ -37,5 +37,15 @@
  
  ----
  # Spring Project 
- ## 현재 진
+ ## 개요 
+  - 연말 또는 여행을 떠날때마다 이용하는 휴게소를 특별하게 이용하기 위해서 휴게소 정보를 이용한 게시판
+  - 휴게소별 최저가 주유소, 휴게소별 음식랭킹, 휴게소 정보 등 휴게소를 평가 할 수 있는 휴게소 커뮤니케이션 서비스 
+ ## 기여도 
+  - 관리자 페이지 작업 
+  - 사용 기술 : Ajax, MyBatis, Rest APi, SPA 
+  - 개발 도구 : Fullcalendar.js , Jquery DetePicker, Jquery Modal, Jquery, Bootstrap4, MyBatis, chart.js,  kakao Map API, Ck Editer4, Gmail SMTP service 
+                Eclips, Apache Tomcat v9.0, Spring, CSS, VSC, Spring security, Spring jdbc, lombock
+ ---               
+  
+  
  
