@@ -46,7 +46,11 @@
   - 사용 기술 : Ajax, MyBatis, Rest APi, SPA 
   - 개발 도구 : Fullcalendar.js , Jquery DetePicker, Jquery Modal, Jquery, Bootstrap4, MyBatis, chart.js,  kakao Map API, Ck Editer4, Gmail SMTP service 
                 Eclips, Apache Tomcat v9.0, Spring, CSS, VSC, Spring security, Spring jdbc, lombock
- ---               
+ ---
+ # 오류 및 기본 개념을 공부하기 위해 만든 개인 블로그
+ [개인 블로그]https://blog.naver.com/mkmknn77
+ 
+ 
   
   
  
